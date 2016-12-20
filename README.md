@@ -1,5 +1,6 @@
 # Markdown-Syntax
 This is a rendered Markdown from the code at https://daringfireball.net/projects/markdown/syntax  
+Make sure you have that page opened in separate window to see the code in action here.
 
 
 OVERVIEW
