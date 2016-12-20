@@ -2,7 +2,7 @@
 from https://daringfireball.net/projects/markdown/syntax  
 
 
-`OVERVIEW
+OVERVIEW
 
 PHILOSOPHY
 
@@ -562,4 +562,3 @@ _   underscore
 -   minus sign (hyphen)
 .   dot
 !   exclamation mark
-`
