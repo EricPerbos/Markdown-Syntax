@@ -1,5 +1,5 @@
 # Markdown-Syntax
-from https://daringfireball.net/projects/markdown/syntax  
+This is a rendered Markdown from the code at https://daringfireball.net/projects/markdown/syntax  
 
 
 OVERVIEW
